@@ -52,14 +52,24 @@
 }
 
 .navbar-image {
-	margin-right: 35px;
 	margin: auto;
 	line-height: 6.5rem;
-	padding: 10px;
+	padding: 1.5rem;
 }
 
 .navbar-image:hover {
 	background-color: white;
 	transition: 0.25s;
 	opacity: .5;
+}
+
+.social {
+	width: 90%;
+	height: 90%;
+	margin: 5px;
+}
+
+.empty {
+	width: 40px;
+	height: 40px;
 }
