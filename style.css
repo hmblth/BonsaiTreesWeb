@@ -1,6 +1,7 @@
 
 .container {
 	max-width: 100%;
+	text-align: center;
 }
 
 #current {
@@ -12,7 +13,7 @@
 }
 
 .navbar {
-	display: block;
+	display: inline-block;
 	width: 100%;
 	height: 6.5rem;
 	background: #fff;
